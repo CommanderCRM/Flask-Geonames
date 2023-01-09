@@ -5,7 +5,7 @@ Flask REST API service to provide information about cities from Geonames dump
 RU.txt file from http://download.geonames.org/export/dump/RU.zip
 
 ## How to start
-'python3 main.py'
+`python3 main.py`
 
 ## API
 Methods collection is on https://api.postman.com/collections/24561193-a7bf5a2e-a0de-4187-bdd1-5490b9507dd8?access_key=PMAT-01GNE7GSW6V5MXHA9P5B9R0H07
